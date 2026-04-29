@@ -1,10 +1,8 @@
-# Badi Alosaimi
+# Badi Alosaimi — SOC Analyst & Blue Team Practitioner
 
-**SOC Analyst | Blue Team | Incident Response | Saudi National**
+**SOC Analyst | Blue Team & Incident Response | Building Arabic SOC simulations, SIEM labs, and cybersecurity training platforms.**
 
-Cybersecurity diploma graduate focused on SOC operations, alert triage, incident response, SIEM analysis, MITRE ATT&CK mapping, and Saudi cybersecurity compliance concepts.
-
-I build Arabic-first cybersecurity training and SOC simulation projects to strengthen practical Blue Team skills and support Arabic-speaking cybersecurity learners.
+Saudi cybersecurity professional focused on SOC operations, SIEM analysis, threat detection, and incident response. Building practical Arabic-language cybersecurity content and open-source SOC simulation tools.
 
 ---
 
@@ -12,37 +10,36 @@ I build Arabic-first cybersecurity training and SOC simulation projects to stren
 
 - SOC Monitoring & Alert Triage
 - Incident Response & Timeline Reconstruction
-- SIEM Analysis: Splunk / Sentinel-style workflows
+- SIEM Analysis: Splunk / Microsoft Sentinel
 - IOC Extraction & Threat Intelligence
 - MITRE ATT&CK Mapping
 - Windows Event Logs & PCAP Analysis
-- NCA ECC Compliance Awareness
+- NCA ECC & Saudi Cybersecurity Compliance
 - Arabic Cybersecurity Training Platforms
 
 ---
 
 ## Featured Projects
 
-### BADI SOC — SOC Operations Simulation Platform
-Saudi-native SOC simulation platform covering alert triage, incident investigation, war-room collaboration, SLA tracking, MITRE ATT&CK mapping, playbooks, reports, threat maps, and NCA ECC-oriented workflows.
-
-### BadiTech Academy — Arabic Cybersecurity Learning Platform
-Arabic cybersecurity training platform with certification tracks, SOC labs, Linux simulator, Splunk SIEM simulator, Alert Triage simulator, CTF challenges, AI chatbot support, and progress tracking.
-
-### SOC Incident Reports Portfolio
-Simulated SOC case reports covering brute force, C2 beaconing, phishing, IOC extraction, MITRE ATT&CK mapping, investigation timelines, containment actions, and remediation recommendations.
+| Project | Description |
+|---|---|
+| [soc-incident-reports](https://github.com/bedochi1996/soc-incident-reports) | Structured SOC incident reports with professional templates |
+| [badi-soc-platform](https://github.com/bedochi1996/badi-soc-platform) | Arabic SOC simulation & training platform |
+| [blue-team-labs](https://github.com/bedochi1996/blue-team-labs) | Hands-on Blue Team lab exercises and SIEM detection notes |
+| [baditech-academy](https://github.com/bedochi1996/baditech-academy) | Arabic cybersecurity education platform |
 
 ---
 
-## Certifications
+## Certifications (In Progress)
 
-- eCIR — Certified Incident Responder (INE Security)
-- eJPT — Junior Penetration Tester (INE Security)
-- Cybersecurity Diploma — King Abdulaziz University (4.28/5.0 GPA)
+- CompTIA Security+
+- CCNA
+- eJPT v2 (Junior Penetration Tester)
 
 ---
 
-## Links
+## Connect
 
-- LinkedIn: [linkedin.com/in/badi-alosaimi](https://linkedin.com/in/badi-alosaimi)
-- TryHackMe: [tryhackme.com/p/badiOS](https://tryhackme.com/p/badiOS) — Top 20% Global
+- Location: Jeddah, Saudi Arabia
+- Focus: Blue Team | SOC | Incident Response
+- Language: Arabic & English
